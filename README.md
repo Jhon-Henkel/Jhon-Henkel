@@ -7,7 +7,7 @@ I'm going after every day to become a better programmer, improving my skills wit
 * 🚀 I'm currently working on <a target="_blank" href="https://www.climba.com.br/">Climba Commerce</a> <br>
 * 🧠 I'm learning backend technologies, currently studying PHP and MySQL <br>
 
-I'm focused on improving my backend skills and becoming a badass programmer, being a reference on the subject. I'm studying and improving my skills in PHP and MySQL, I have future intentions to develop my portfolio and finish my current projects, to have these exhibitors in my portfolio, as future courses, I intend to study laravel, API's.
+I'm focused on improving my backend skills and becoming a badass programmer, being a reference on the subject. I'm studying and improving my skills in PHP and MySQL, I have future intentions to develop my portfolio and finish my current projects, to have these exhibitors in my portfolio, as future courses, I intend to study laravel, API's, JS, AngularJs.
 
 ### Take a look at the programming languages ​​that I have programmed
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Henkel&layout=compact&theme=highcontrast&hide_border=true" />
