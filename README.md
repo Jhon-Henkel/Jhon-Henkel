@@ -12,6 +12,9 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 ### Take a look at the programming languages ​​that I have programmed
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Henkel&layout=compact&theme=highcontrast&hide_border=true" />
 
+### Projects Online
+- <a href="https://jhon-henkel.github.io/tetris/" target="_blank" rel="noreferrer">Tetris</a>
+
 ### Skills
 
 <div>
