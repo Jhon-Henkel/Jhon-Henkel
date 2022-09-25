@@ -14,6 +14,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 
 ### Projects Online
 - <a href="https://jhon-henkel.github.io/tetris/" target="_blank" rel="noreferrer">Tetris</a> (JS, HTML and CSS3)
+- <a href="http://tictactoe.jhonhenkel.kinghost.net/#!/home" target="_blank" rel="noreferrer">Tic Tac Toe</a> (JS, HTML, CSS3, PHP and MySQL)
 
 ### Skills
 
