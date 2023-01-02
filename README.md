@@ -18,7 +18,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 - <a href="http://tictactoe.jhonhenkel.kinghost.net/#!/home" target="_blank" rel="noreferrer">Tic Tac Toe</a> (JS, HTML, CSS3, PHP and MySQL)
 
 ### Developed Libraries
-- [Freight calculation with Correios](https://github.com/Jhon-Henkel/correiosCalculateIntegration) (PHP 8.1)
+- [Freight calculation with Correios](https://github.com/Jhon-Henkel/freight-calculation-with-correios) (PHP 8.1)
 
 ### Skills
 
