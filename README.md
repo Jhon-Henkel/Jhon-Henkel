@@ -14,6 +14,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Henkel&layout=compact&theme=highcontrast&hide_border=true" />
 
 ### Projects Online
+- <a href="https://my-finances-planner-demo.jhon.dev.br/" target="_blank" rel="noreferrer">My Finances Planner</a> (PHP, Laravel, Vue.js, CSS3, JS and MySQL)
 - <a href="http://mime-message-viewer.jhonhenkel.kinghost.net" target="_blank" rel="noreferrer">Mime Message Viewer</a> (HTML, CSS3 and PHP)
 - <a href="http://password-verify.jhonhenkel.kinghost.net/verify" target="_blank" rel="noreferrer">API backend Password Verify</a> (PHP 8.1) <a href="https://github.com/Jhon-Henkel/password-verify/blob/main/README.md" rel="noreferrer">Documentation</a>
 - <a href="https://jhon-henkel.github.io/tetris/" target="_blank" rel="noreferrer">Tetris</a> (JS, HTML and CSS3)
