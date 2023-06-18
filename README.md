@@ -4,9 +4,9 @@ I'm going after every day to become a better programmer, improving my skills wit
 
 * 🌍 I live in Brazil <br>
 * ✉️ You can contact me at jhowrf@gmail.com <br>
-* 🚀 I'm currently working on <a target="_blank" href="https://www.climba.com.br/">Climba Commerce</a> <br>
-* 🎓 I'm currently studying Computer Science at <a target="_blank" href= "https://www.unisul.br/">Unisul</a> university <br>
-* 🧠 I'm learning backend technologies, currently studying PHP and MySQL <br>
+* 🚀 I'm currently working on [Climba Commerce](https://www.climba.com.br) <br>
+* 🎓 I'm currently studying Computer Science at [Unisul](https://www.unisul.br/) university <br>
+* 🧠 I'm improving the skills I already master and always looking to learn new things <br>
 
 I'm focused on improving my backend skills and becoming a badass programmer, being a reference on the subject. I'm study and improving my skills every day.
 
@@ -14,11 +14,11 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Henkel&layout=compact&theme=highcontrast&hide_border=true" />
 
 ### Projects Online
-- <a href="https://my-finances-planner-demo.jhon.dev.br/" target="_blank" rel="noreferrer">My Finances Planner</a> (PHP, Laravel, Vue.js, CSS3, JS and MySQL)
-- <a href="http://mime-message-viewer.jhonhenkel.kinghost.net" target="_blank" rel="noreferrer">Mime Message Viewer</a> (HTML, CSS3 and PHP)
-- <a href="http://password-verify.jhonhenkel.kinghost.net/verify" target="_blank" rel="noreferrer">API backend Password Verify</a> (PHP 8.1) <a href="https://github.com/Jhon-Henkel/password-verify/blob/main/README.md" rel="noreferrer">Documentation</a>
-- <a href="https://jhon-henkel.github.io/tetris/" target="_blank" rel="noreferrer">Tetris</a> (JS, HTML and CSS3)
-- <a href="http://tictactoe.jhonhenkel.kinghost.net/#!/home" target="_blank" rel="noreferrer">Tic Tac Toe</a> (JS, HTML, CSS3, PHP and MySQL)
+- [My Finances Planner](https://my-finances-planner-demo.jhon.dev.br/login) (PHP, Laravel, Vue.js, CSS3, JS and MySQL)
+- [Mime Message Viewer](http://mime-message-viewer.jhonhenkel.kinghost.net) (HTML, CSS3 and PHP)
+- [API backend Password Verify](http://password-verify.jhonhenkel.kinghost.net/verify) (PHP 8.1) [Documentation](https://github.com/Jhon-Henkel/password-verify/blob/main/README.md)
+- [Tetris](https://jhon-henkel.github.io/tetris) (JS vanilla, HTML and CSS3)
+- [Tic Tac Toe](http://tictactoe.jhonhenkel.kinghost.net/#!/home) (JS, HTML, CSS3, PHP and MySQL)
 
 ### Developed Libraries
 - [Freight calculation with Correios](https://github.com/Jhon-Henkel/freight-calculation-with-correios) (PHP 8.1)
