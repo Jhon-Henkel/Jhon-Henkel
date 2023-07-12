@@ -18,7 +18,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 - [Mime Message Viewer](http://mime-message-viewer.jhonhenkel.kinghost.net) (HTML, CSS3 and PHP)
 - [API backend Password Verify](http://password-verify.jhonhenkel.kinghost.net/verify) (PHP 8.1) [Documentation](https://github.com/Jhon-Henkel/password-verify/blob/main/README.md)
 - [Tetris](https://jhon-henkel.github.io/tetris) (JS vanilla, HTML and CSS3)
-- [Tic Tac Toe](http://tictactoe.jhonhenkel.kinghost.net/#!/home) (JS, HTML, CSS3, PHP and MySQL)
+- [Tic Tac Toe](https://tictactoe.jhon.dev.br/#!/home) (JS, HTML, CSS3, PHP and MySQL)
 
 ### Developed Libraries
 - [Freight calculation with Correios](https://github.com/Jhon-Henkel/freight-calculation-with-correios) (PHP 8.1)
