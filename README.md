@@ -25,7 +25,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 - [Freight calculation with Correios](https://github.com/Jhon-Henkel/freight-calculation-with-correios) (PHP 8.1)
 
 ### My Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jhon-henkel&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=true)]
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jhon-henkel&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=true)
 
 ### Skills
 <p>
