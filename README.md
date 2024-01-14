@@ -28,6 +28,6 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 ### Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,php,html,css,js,angular,vue,bootstrap,mysql,laravel,vite,go,java" />
+    <img src="https://skillicons.dev/icons?i=git,docker,php,html,css,js,angular,vue,bootstrap,mysql,laravel,vite,go,java,kotlin" />
   </a>
 </p>
