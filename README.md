@@ -25,6 +25,9 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 ### Developed Libraries
 - [Freight calculation with Correios](https://github.com/Jhon-Henkel/freight-calculation-with-correios) (PHP 8.1)
 
+### Developed Plugins
+- [Br Dev Tools](https://plugins.jetbrains.com/plugin/23526-br-dev-tools) (Kotlin)
+
 ### Skills
 <p>
   <a href="https://skillicons.dev">
