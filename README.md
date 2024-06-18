@@ -15,6 +15,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 
 
 ### Projects Online
+- [GTA Helper](https://gtahelper.com.br/) (Vue.js, Ionic, typeScript)
 - [Piadas Quinta Série](https://piadasquintaserie.jhon.dev.br) (Vue.js)
 - [My Finances Planner](https://my-finances-planner-demo.jhon.dev.br/login) (PHP, Laravel, Vue.js, CSS3, JS and MySQL)
 - [Mime Message Viewer](https://mime-message-viewer.jhon.dev.br/) (HTML, CSS3 and PHP)
