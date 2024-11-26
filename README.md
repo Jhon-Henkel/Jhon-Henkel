@@ -4,7 +4,7 @@ I'm going after every day to become a better programmer, improving my skills wit
 
 * 🌍 I live in Brazil <br>
 * ✉️ You can contact me at jhon@jhon.dev.br <br>
-* 🚀 I'm currently working on [Climba Commerce](https://www.climba.com.br) (since 03/2021)<br>
+* 🚀 I'm currently working on home<br>
 * 🎓 I'm currently studying Computer Science at [Unisul](https://www.unisul.br/) university <br>
 * 🧠 I'm improving the skills I already master and always looking to learn new things <br>
 
