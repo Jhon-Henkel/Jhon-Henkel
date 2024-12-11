@@ -24,11 +24,11 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 - [Tic Tac Toe](https://tictactoe.jhon.dev.br/#!/home) (JS, HTML, CSS3, PHP and MySQL)
 
 ### Developed Libraries
-- [Freight calculation with Correios](https://github.com/Jhon-Henkel/freight-calculation-with-correios) (PHP 8.1)
-- [Local Storage Cache](https://www.npmjs.com/package/@jhowrf/local-storage-cache) (TypeScript)
+- [Freight calculation with Correios](https://github.com/Jhon-Henkel/freight-calculation-with-correios) (PHP 8.1) ![Packagist Downloads](https://img.shields.io/packagist/dt/correios/correios-calculate)
+- [Local Storage Cache](https://www.npmjs.com/package/@jhowrf/local-storage-cache) (TypeScript) ![NPM Downloads](https://img.shields.io/npm/d18m/%40jhowrf%2Flocal-storage-cache) 
 
 ### Developed Plugins
-- [Br Dev Tools](https://plugins.jetbrains.com/plugin/23526-br-dev-tools) (Kotlin)
+- [Br Dev Tools](https://plugins.jetbrains.com/plugin/23526-br-dev-tools) (Kotlin) [![Downloads](https://img.shields.io/jetbrains/plugin/d/23526-br-dev-tools.svg)](https://plugins.jetbrains.com/plugin/23526-br-dev-tools)
 
 ### Skills
 <p>
