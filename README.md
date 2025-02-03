@@ -30,9 +30,23 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 ### Developed Plugins
 - [Br Dev Tools](https://plugins.jetbrains.com/plugin/23526-br-dev-tools) (Kotlin) [![Downloads](https://img.shields.io/jetbrains/plugin/d/23526-br-dev-tools.svg)](https://plugins.jetbrains.com/plugin/23526-br-dev-tools)
 
-### Skills
+### Skills Backend
 <p>
   <a href="https://github.com/lelouchfr/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,html,css,js,angular,vue,bootstrap,mysql,laravel,vite,go,java,kotlin,redis,rabbitmq,codeigniter,cloudflare,ubuntu,typescript,twig,postgresql,pinia,composer" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,mysql,laravel,go,java,kotlin,redis,rabbitmq,codeigniter,postgresql" />
+  </a>
+</p>
+
+### Skills Server
+<p>
+  <a href="https://github.com/lelouchfr/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,cloudflare,ubuntu" />
+  </a>
+</p>
+
+### Skills Frontend
+<p>
+  <a href="https://github.com/lelouchfr/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,vue,bootstrap,vite,typescript,twig,pinia" />
   </a>
 </p>
