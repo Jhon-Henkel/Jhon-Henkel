@@ -32,7 +32,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 
 ### Skills
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,php,html,css,js,angular,vue,bootstrap,mysql,laravel,vite,go,java,kotlin,redis,rabbitmq" />
+  <a href="https://github.com/lelouchfr/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,html,css,js,angular,vue,bootstrap,mysql,laravel,vite,go,java,kotlin,redis,rabbitmq,codeigniter,cloudflare,ubuntu,typescript,twig,postgresql,pinia,composer" />
   </a>
 </p>
