@@ -41,7 +41,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 ### Skills Server
 <p>
   <a href="https://github.com/lelouchfr/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,cloudflare,ubuntu" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,cloudflare,ubuntu,azure" />
   </a>
 </p>
 
