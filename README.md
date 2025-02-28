@@ -34,7 +34,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 ### Skills Backend
 <p>
   <a href="https://github.com/lelouchfr/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,mysql,laravel,go,java,kotlin,redis,rabbitmq,codeigniter,postgresql,kafka" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,mysql,laravel,go,java,kotlin,redis,rabbitmq,codeigniter,postgresql,kafka,insomnia,postman" />
   </a>
 </p>
 
