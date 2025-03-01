@@ -31,23 +31,9 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 ### Developed Plugins
 - [Br Dev Tools](https://plugins.jetbrains.com/plugin/23526-br-dev-tools) (Kotlin) [![Downloads](https://img.shields.io/jetbrains/plugin/d/23526-br-dev-tools.svg)](https://plugins.jetbrains.com/plugin/23526-br-dev-tools)
 
-### Skills Backend
+### Skills
 <p>
   <a href="https://github.com/lelouchfr/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,mysql,laravel,go,java,kotlin,redis,rabbitmq,codeigniter,postgresql,kafka,insomnia,postman,keycloak" />
-  </a>
-</p>
-
-### Skills Server
-<p>
-  <a href="https://github.com/lelouchfr/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,cloudflare,ubuntu,azure" />
-  </a>
-</p>
-
-### Skills Frontend
-<p>
-  <a href="https://github.com/lelouchfr/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,vue,bootstrap,vite,typescript,twig,pinia" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,mysql,laravel,go,java,kotlin,redis,rabbitmq,codeigniter,postgresql,kafka,insomnia,postman,keycloak,html,css,js,angular,vue,bootstrap,vite,typescript,twig,pinia,git,docker,cloudflare,ubuntu,azure" />
   </a>
 </p>
