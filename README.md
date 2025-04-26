@@ -17,12 +17,8 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 ### Projects Online
 - [Market Control](https://github.com/Jhon-Henkel/market_control) (PHP, Laravel, Docker, MySQL and Telegram Chat Bot)
 - [GTA Helper](https://gtahelper.com.br/) (Vue.js, Ionic, typeScript)
-- [Piadas Quinta Série](https://piadasquintaserie.jhon.dev.br) (Vue.js)
 - [Finanças na Mão](https://financasnamao.com.br) (PHP, Laravel, Vue.js, CSS3, JS and MySQL, Go Lang, RabbitMQ, Redis)
-- [Mime Message Viewer](https://mime-message-viewer.jhon.dev.br/) (HTML, CSS3 and PHP)
-- [API backend Password Verify](https://password-verify.jhon.dev.br/verify) (PHP 8.1) [Documentation](https://github.com/Jhon-Henkel/password-verify/blob/main/README.md)
 - [Tetris](https://jhon-henkel.github.io/tetris) (JS vanilla, HTML and CSS3)
-- [Tic Tac Toe](https://tictactoe.jhon.dev.br/#!/home) (JS, HTML, CSS3, PHP and MySQL)
 
 ### Developed Libraries
 - [Freight calculation with Correios](https://github.com/Jhon-Henkel/freight-calculation-with-correios) (PHP 8.1) ![Packagist Downloads](https://img.shields.io/packagist/dt/correios/correios-calculate)
