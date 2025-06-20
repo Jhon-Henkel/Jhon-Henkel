@@ -16,7 +16,7 @@ I'm focused on improving my backend skills and becoming a badass programmer, bei
 
 ### Projects Online
 - [Market Control](https://github.com/Jhon-Henkel/market_control) (PHP, Laravel, Docker, MySQL and Telegram Chat Bot)
-- [GTA Helper](https://gtahelper.com.br/) (Vue.js, Ionic, typeScript)
+- [GTA Helper](https://jhon-henkel.github.io/gta-helper/) (Vue.js, Ionic, typeScript)
 - [Finanças na Mão](https://financasnamao.com.br) (PHP, Laravel, Vue.js, CSS3, JS and MySQL, Go Lang, RabbitMQ, Redis)
 - [Tetris](https://jhon-henkel.github.io/tetris) (JS vanilla, HTML and CSS3)
 
