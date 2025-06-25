@@ -11,7 +11,7 @@ I'm going after every day to become a better programmer, improving my skills wit
 I'm focused on improving my backend skills and becoming a badass programmer, being a reference on the subject. I'm study and improving my skills every day.
 
 ### Take a look at the programming languages ​​that I have programmed
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-henkel&layout=pie&langs_count=10&theme=highcontrast&hide_border=true&hide_title=true&1=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-henkel&layout=pie&langs_count=10&theme=highcontrast&hide_border=true&hide_title=true&1=1&hide=jupyter%20notebook)
 
 
 ### Projects Online
