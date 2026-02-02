@@ -8,6 +8,7 @@ Desenvolvedor PHP focado em arquitetura, integrações e modernização de siste
 - APIs REST
 - Arquitetura modular
 - Migração de legado → moderno
+- Go Lang
 
 ### Frontend
 - Vue.js • Nuxt • Ionic
