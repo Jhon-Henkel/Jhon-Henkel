@@ -15,6 +15,8 @@ Coordenador de desenvolvimento e desenvolvedor focado em arquitetura, integraç�
 - Vue.js • Nuxt • Ionic
 - Typescrypt
 - JavaScript
+- Tailwind
+- Bootstrap
 
 ### Infra
 - Linux
@@ -22,6 +24,8 @@ Coordenador de desenvolvimento e desenvolvedor focado em arquitetura, integraç�
 - VPS (Azure e outros)
 - Apache / Nginx
 - VPN
+- Redis
+- Rabbit MQ
 
 ## O que eu resolvo
 - Migração de sistemas legados sem parar a operação
@@ -44,6 +48,6 @@ Código simples. Modular. Sustentável.
 ---
 <p>
   <a href="https://github.com/lelouchfr/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,mysql,laravel,go,java,kotlin,redis,rabbitmq,codeigniter,postgresql,kafka,insomnia,postman,html,css,js,angular,vue,bootstrap,vite,typescript,twig,pinia,cloudflare,ubuntu,azure,composer,npm,nuxt,tailwind,python,jupyter" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,mysql,laravel,go,redis,rabbitmq,codeigniter,postgresql,insomnia,postman,html,css,js,vue,bootstrap,vite,typescript,pinia,ubuntu,azure,composer,npm,nuxt,tailwind,bootstrap,python" />
   </a>
 </p>
