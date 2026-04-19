@@ -1,6 +1,6 @@
 ## Jhonatan Henkel
 
-Desenvolvedor PHP focado em arquitetura, integrações e modernização de sistemas legados.
+Coordenador de desenvolvimento e desenvolvedor focado em arquitetura, integrações e modernização de sistemas legados.
 
 ## Stack principal
 ### Backend
@@ -9,6 +9,7 @@ Desenvolvedor PHP focado em arquitetura, integrações e modernização de siste
 - Arquitetura modular
 - Migração de legado → moderno
 - Go Lang
+- Python
 
 ### Frontend
 - Vue.js • Nuxt • Ionic
